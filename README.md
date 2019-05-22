@@ -12,7 +12,6 @@
 1. Yolo theory (anchors)
 1. Mask-R-CNN evolution theory
 1. Winning "magentiq" kaggle solution
-### Augmentation using Homogeneous coordinates
 ### Diagnosis
 1. Maximum activation?
 1. grad cam?
@@ -24,6 +23,7 @@
 1. Review 5 winning solutions. [list1](http://ndres.me/kaggle-past-solutions/), [list2](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions), [list3](http://www.chioka.in/kaggle-competition-solutions/)
 1. Study in-depth 2 winning solutions
 ### Specific stuff
+* Augmentation using Homogeneous coordinates
 * Motivation for inception block
 * Understand inception v3 trick
 * Understand Fully connected conv. Motivations: 1. Flexible input size, 2. Equivalent to sliding cnn.
