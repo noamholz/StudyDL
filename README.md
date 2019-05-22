@@ -29,7 +29,7 @@
 * Understand Fully connected conv. Motivations: 1. Flexible input size, 2. Equivalent to sliding cnn.
 * What exactly happens when I replace the dense layer of a pretrained model with a smaller one? You freeze the non-dense, and train the dense.
 * Why *binary* cross entropy on segmentation model?
-
+* Bayesian optimization, 
 ## C/C++
 
 
