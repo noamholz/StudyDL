@@ -19,7 +19,7 @@
 1. grad cam?
 1. ?
 ### Kaggle
-1. Review 5 winning solutions
+1. Review 5 winning solutions. [list1](http://ndres.me/kaggle-past-solutions/), [list2](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions), [list3](http://www.chioka.in/kaggle-competition-solutions/)
 1. Study in-depth 2 winning solutions
 ### Specific stuff
 * Motivation for inception block
