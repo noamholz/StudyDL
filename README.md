@@ -5,6 +5,8 @@
 ### Courses
 1. [Cs231]()
 1. [Ng-deep learning](https://www.coursera.org/specializations/deep-learning)
+1. [Ng-CNN Tensorflow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+1. [Fast.ai courses](https://www.fast.ai/)
 ### GANs
 1. general theory
 1. existing algos review
