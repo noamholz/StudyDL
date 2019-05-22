@@ -25,7 +25,8 @@ statergy, pipe-line, [DL_libraries](https://docs.google.com/document/d/1Yz1N2-pM
 1. general theory
 1. existing algos review
 ### Kaggle
-1. Review 5 winning solutions. [list1](http://ndres.me/kaggle-past-solutions/), [list2](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions), [list3](http://www.chioka.in/kaggle-competition-solutions/)
+1. Review 5 winning solutions. [list1](http://ndres.me/kaggle-past-solutions/), [list2](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions), [list3](http://www.chioka.in/kaggle-competition-solutions/). Candidates: [Amazon reiver](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data), [humpback whales](https://www.kaggle.com/c/humpback-whale-identification), [histopathologic-cancer-detection](https://www.kaggle.com/c/histopathologic-cancer-detection)
+
 1. Study in-depth 2 winning solutions
 ### Specific stuff
 * Augmentation using Homogeneous coordinates
