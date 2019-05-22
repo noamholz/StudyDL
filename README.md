@@ -7,6 +7,7 @@
 1. [Ng-deep learning](https://www.coursera.org/specializations/deep-learning)
 1. [Ng-CNN Tensorflow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 1. [Fast.ai courses](https://www.fast.ai/)
+1. [competitive-data-science](https://www.coursera.org/learn/competitive-data-science)
 
 ### Detection
 1. Yolo theory (anchors)
@@ -31,6 +32,7 @@
 * Why *binary* cross entropy on segmentation model?
 * Bayesian optimization
 * For ensembles: Ridge/Logreg, LGB, Neural network and my favorite scipy.optimize
+* 
 ## C/C++
 
 
