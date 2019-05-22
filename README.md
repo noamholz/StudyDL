@@ -3,7 +3,7 @@
 # TODOs
 ## DL
 important notes and conclusions are listed in the docs:
-statergy, pipe-line, useful-libraries, DL theory.
+statergy, pipe-line, [DL_libraries](https://docs.google.com/document/d/1Yz1N2-pMnlBIWhfqrXvtjNOEpICcJ_Z8-tgulvlFoqY/edit?usp=sharing), DL theory.
 
 ### Courses
 1. [Cs231]()
