@@ -11,6 +11,7 @@ statergy, pipe-line, [DL_libraries](https://docs.google.com/document/d/1Yz1N2-pM
 1. [Ng-CNN Tensorflow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
 1. [Fast.ai courses](https://www.fast.ai/)
 1. [competitive-data-science](https://www.coursera.org/learn/competitive-data-science)
+1. [mlcourse.ai](https://mlcourse.ai/)
 
 ### Detection
 1. Yolo theory (anchors)
