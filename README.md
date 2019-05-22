@@ -35,3 +35,18 @@
 
 
 ## Cloud DL
+
+
+....
+https://towardsdatascience.com/how-to-farm-kaggle-in-the-right-way-b27f781b78da:
+What roughly speaking should be in your pipeline by the end of this stage:
+
+    Various methods for the preprocessing and creation of numeric features — projection, relationship
+    Different methods on how to work with categories — Mean target encoding in the right form, frequency, label / ohe
+    Various schemes of embeddings for the text (Glove, Word2Vec, Fasttext)
+    Various vectorization schemes of text (Count, TF-IDF, Hash)
+    Several validation schemes (N*M for the standard cross-validation, time-based, by group)
+    Bayesian optimization / hyperopt / something else for the selection of hyperparameters
+    Shuffle / Target permutation / Boruta / RFE for feature selection
+    Linear models — write a code to run different models in the same style over one processed data set
+    LGB/XGB/Catboost — write a code to run different models in the same style over one processed data set
