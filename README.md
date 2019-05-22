@@ -29,3 +29,6 @@
 * Why *binary* cross entropy on segmentation model?
 
 ## C/C++
+
+
+## Cloud DL
