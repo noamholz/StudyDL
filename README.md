@@ -15,5 +15,11 @@
 ### Kaggle
 1. Review 5 winning solutions
 1. Study in-depth 2 winning solutions
+### Specific stuff
+* Motivation for inception block
+* Understand inception v3 trick
+* Understand Fully connected conv. Motivations: 1. Flexible input size, 2. Equivalent to sliding cnn.
+* What exactly happens when I replace the dense layer of a pretrained model with a smaller one? You freeze the non-dense, and train the dense.
+* Why *binary* cross entropy on segmentation model?
 
 ## C/C++
