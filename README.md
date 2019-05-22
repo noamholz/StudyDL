@@ -14,6 +14,9 @@
 1. Yolo theory (anchors)
 1. Mask-R-CNN evolution theory
 1. Winning "magentiq" kaggle solution
+## Diagnosis
+1. Maximum activation?
+1. ?
 ### Kaggle
 1. Review 5 winning solutions
 1. Study in-depth 2 winning solutions
