@@ -2,6 +2,9 @@
 
 # TODOs
 ## DL
+important notes and conclusions are listed in the docs:
+statergy, pipe-line, useful-libraries, DL theory.
+
 ### Courses
 1. [Cs231]()
 1. [Ng-deep learning](https://www.coursera.org/specializations/deep-learning)
@@ -32,7 +35,6 @@
 * Why *binary* cross entropy on segmentation model?
 * Bayesian optimization
 * For ensembles: Ridge/Logreg, LGB, Neural network and my favorite scipy.optimize
-* 
 ## C/C++
 
 
