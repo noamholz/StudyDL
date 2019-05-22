@@ -16,6 +16,7 @@
 1. Winning "magentiq" kaggle solution
 ## Diagnosis
 1. Maximum activation?
+1. grad cam?
 1. ?
 ### Kaggle
 1. Review 5 winning solutions
