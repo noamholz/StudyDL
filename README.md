@@ -40,6 +40,7 @@ statergy, pipe-line, [DL_libraries](https://docs.google.com/document/d/1Yz1N2-pM
 ## C/C++
 1. implement 2 algo puzzles
 1. basic code design, and writing nicely
+1. call be reference, pointers to arrays, etc.
 1. standard libs, polymorphism, inhertance, exceptions.
 1. arrays, (stl) vectors, matrices, stacks manipulations.
 
