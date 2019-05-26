@@ -31,7 +31,7 @@ statergy, pipe-line, [DL_libraries](https://docs.google.com/document/d/1Yz1N2-pM
 ### Specific stuff
 * Augmentation using Homogeneous coordinates
 * Motivation for inception block
-* Understand inception v3 trick
+* [ow seperating convolutions to two axes help.](http://www.songho.ca/dsp/convolution/convolution2d_separable.html)
 * Understand Fully connected conv. Motivations: 1. Flexible input size, 2. Equivalent to sliding cnn.
 * What exactly happens when I replace the dense layer of a pretrained model with a smaller one? You freeze the non-dense, and train the dense.
 * Why *binary* cross entropy on segmentation model?
