@@ -60,14 +60,8 @@ Then:
 * In the windows command-line, I entered: ssh-keygen -t rsa -b 4096
 * In the [gcp compute engine console](https://console.cloud.google.com/compute?project=fastai-course-4783), I've entered the SSH terminal by pressing on the bold SHH text at the end of the instance details line. I then added the content of %USERPROFILE%\.ssh\id_rsa.pub (where %USERPROFILE% = 'C:\Users\owner') to ~/.ssh/authorized_keys.
 * In vscode, I then press F1 -> choose "Remote-SSH: Connect to Host -> enter "jupyter@<my-fastai-instance IP, found in [gcp compute engine console](https://console.cloud.google.com/compute?project=fastai-course-4783)>"
-This allows me to connect by:
-https://code.visualstudio.com/docs/remote/ssh
 
-
-## Cloud DL
- I follow 
  
-
 ....
 https://towardsdatascience.com/how-to-farm-kaggle-in-the-right-way-b27f781b78da:
 What roughly speaking should be in your pipeline by the end of this stage:
