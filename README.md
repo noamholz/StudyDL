@@ -28,6 +28,7 @@ statergy, pipe-line, [DL_libraries](https://docs.google.com/document/d/1Yz1N2-pM
 1. Review 5 winning solutions. [list1](http://ndres.me/kaggle-past-solutions/), [list2](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions), [list3](http://www.chioka.in/kaggle-competition-solutions/). Candidates: [Amazon reiver](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data), [humpback whales](https://www.kaggle.com/c/humpback-whale-identification), [histopathologic-cancer-detection](https://www.kaggle.com/c/histopathologic-cancer-detection)
 
 1. Study in-depth 2 winning solutions
+
 ### Specific stuff
 * Augmentation using Homogeneous coordinates
 * Motivation for inception block
@@ -44,8 +45,28 @@ statergy, pipe-line, [DL_libraries](https://docs.google.com/document/d/1Yz1N2-pM
 1. standard libs, polymorphism, inhertance, exceptions.
 1. arrays, (stl) vectors, matrices, stacks manipulations.
 
-## Cloud DL
+# Progress Notes
+## Infrastructure
+Following the fastai course "Practical Deep Learning for Coders" approach, I've opened a gcp account (with a 300$ free credit).
+using ). I've setup the Windows 10 Ubuntu bash environment to enable me to work conveniently on the VM ("my-fastai-instance"):
+### Connecting to Jupyter
+I generally followed [these instructions](https://course.fast.ai/start_gcp.html):
+* I've set the permanent environmental variables: ZONE="us-west2-b", INSTANCE_NAME="my-fastai-instance"
+* Connect by SSH to the VM, using: "gcloud compute ssh --zone=$ZONE jupyter@$INSTANCE_NAME -- -L 8080:localhost:8080" (also noamholz@$INSTANCE_NAME should work)
+* Connect remotely to Jupyter by entering [http://localhost:8080/tree](http://localhost:8080/tree)
+### Remotly working via Visual Studio Code 
+Generally following [these insturctions](https://code.visualstudio.com/docs/remote/ssh), to install vscode + ssh extension.
+Then:
+* In the windows command-line, I entered: ssh-keygen -t rsa -b 4096
+* In the [gcp compute engine console](https://console.cloud.google.com/compute?project=fastai-course-4783), I've entered the SSH terminal by pressing on the bold SHH text at the end of the instance details line. I then added the content of %USERPROFILE%\.ssh\id_rsa.pub (where %USERPROFILE% = 'C:\Users\owner') to ~/.ssh/authorized_keys.
+* In vscode, I then press F1 -> choose "Remote-SSH: Connect to Host -> enter "jupyter@<my-fastai-instance IP, found in [gcp compute engine console](https://console.cloud.google.com/compute?project=fastai-course-4783)>"
+This allows me to connect by:
+https://code.visualstudio.com/docs/remote/ssh
 
+
+## Cloud DL
+ I follow 
+ 
 
 ....
 https://towardsdatascience.com/how-to-farm-kaggle-in-the-right-way-b27f781b78da:
