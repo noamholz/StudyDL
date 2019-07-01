@@ -60,6 +60,9 @@ Then:
 * In the windows command-line, I entered: ssh-keygen -t rsa -b 4096
 * In the [gcp compute engine console](https://console.cloud.google.com/compute?project=fastai-course-4783), I've entered the SSH terminal by pressing on the bold SHH text at the end of the instance details line. I then added the content of %USERPROFILE%\.ssh\id_rsa.pub (where %USERPROFILE% = 'C:\Users\owner') to ~/.ssh/authorized_keys.
 * In vscode, I then press F1 -> choose "Remote-SSH: Connect to Host -> enter "jupyter@<my-fastai-instance IP, found in [gcp compute engine console](https://console.cloud.google.com/compute?project=fastai-course-4783)>"
+## TODO:
+* extract all data, or pneumothorax only, from [nih-chest-xrays dataset](https://www.kaggle.com/nih-chest-xrays/data).
+* Convert (to pytorch) a pretrained 1st place model from [rsna-pneumonia-detection-challenge](https://github.com/i-pan/kaggle-rsna18), and replace head.
 
  
 ....
