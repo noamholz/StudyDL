@@ -64,7 +64,7 @@ Then:
 ### understand data:
 * by eye
 * statistically (look at other works)
-* align images using momentum.
+* align images using momentum. **Failed**
 ### take external data:
 * extract all data, or pneumothorax only, from [nih-chest-xrays dataset](https://www.kaggle.com/nih-chest-xrays/data).
 * Convert (to pytorch) a pretrained 1st place model from [rsna-pneumonia-detection-challenge](https://github.com/i-pan/kaggle-rsna18), and replace head.
